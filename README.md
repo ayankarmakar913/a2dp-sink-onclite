@@ -6,8 +6,12 @@ A Magisk/KernelSU/APatch module for **Redmi Y3 (onclite)** to switch between:
 
 **Device/ROM specific. Use at your own risk.**
 
+## Compatibility
+- **Only supported/tested on:** **crDroid 12 (Android 16)** for **Redmi Y3 (onclite)**.
+- **Tested build:** `crDroidAndroid-16.0-20261108-onclite`.
+- Other ROMs, Android versions, kernels, or builds may not work as expected.
+
 ## Notes
-- **Tested environment (as observed):** Redmi Y3 (onclite), Android 16 (BP4A.251205.006), msm8953, KernelSU. Other ROMs/kernels/builds may behave differently.
 - **Root required.** The module changes Bluetooth profile properties, may enable an audio-focus overlay, and restarts the Bluetooth stack when switching modes.
 - **Exclusive modes:** the phone runs as A2DP source *or* sink (not both at the same time).
 

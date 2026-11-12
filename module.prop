@@ -1,6 +1,6 @@
 id=a2dp_sink_redmiy3
-name=A2DP Sink/Source Switcher (Redmi Y3)
+name=A2DP Sink/Source Switcher (Redmi 7/Y3)
 version=1.0.0
 versionCode=1
 author=ayankarmakar913
-description=[Redmi Y3 / onclite, crDroid 12 Android 16] Switch A2DP SOURCE (normal output) <-> SINK (receiver). Tested on crDroidAndroid-16.0-20261108-onclite. KernelSU/Magisk/APatch. Use at your own risk.
+description=[Redmi 7/Y3 onclite, crDroid 12 Android 16 ONLY] Switch A2DP SOURCE/SINK. Tested on crDroidAndroid-16.0-20261108-onclite. KernelSU/Magisk/APatch. Use at your own risk.
